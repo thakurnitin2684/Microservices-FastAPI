@@ -1,0 +1,4 @@
+fastpi
+redis-om
+uvicorn
+sqlalchemy

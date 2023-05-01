@@ -1,0 +1,13 @@
+setup.py
+inventory/__init__.py
+inventory/consumer.py
+inventory/database.py
+inventory/main.py
+microservices.egg-info/PKG-INFO
+microservices.egg-info/SOURCES.txt
+microservices.egg-info/dependency_links.txt
+microservices.egg-info/top_level.txt
+payment/__init__.py
+payment/consumer.py
+payment/database.py
+payment/main.py
