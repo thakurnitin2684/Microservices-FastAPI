@@ -1,6 +1,5 @@
 ## Microservices-Fast-API
-This is a API for a Pizza delivery service built for fun and learning with FastAPI, SQLAlchemy and SQLite. 
-
+Fast-API backend with microservices, connected with React Frontend, where you can add products, create orders.
 
 ## How to run the Project
 - Install Python
